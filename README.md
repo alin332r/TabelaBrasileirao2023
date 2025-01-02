@@ -1,4 +1,3 @@
-# Tabela Brasileirão 2023
 
 # 📊 Tabela do Campeonato Brasileiro - 2023
 
