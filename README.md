@@ -76,8 +76,6 @@ Acesse o código fonte do projeto no GitHub: [Tabela Brasileirão 2023](https://
 
 ---
 
-Se precisar de mais informações, é só avisar! 😊
-
 
 Desenvolvido por 2º Período ESBAM / 2023
 
