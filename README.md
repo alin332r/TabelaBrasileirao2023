@@ -61,10 +61,9 @@ Acesse o código fonte do projeto no GitHub: [Tabela Brasileirão 2023](https://
 ---
 
 ## 📋 **Diferenciais do Projeto**
-- **Responsividade:** Layout adaptado para dispositivos móveis e desktops.
 - **Simples de usar:** Basta abrir o arquivo HTML em qualquer navegador moderno.
 - **Estilização personalizada:** Design limpo e minimalista para uma melhor experiência visual.
-
+- **Código limpo e organizado:** Facilita a manutenção e futuras atualizações do projeto.
 ---
 
 
